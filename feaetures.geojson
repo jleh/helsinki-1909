@@ -16,6 +16,125 @@
           60.16827588534729
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "American Bar, (Ravintola Karl König)",
+        "address": "Mikonkatu 4",
+        "phone": "54 16",
+        "owner": "Hans G. Hagen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.945284128189087,
+          60.168468020610675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Alppila",
+        "address": "Eläintarha, Alppila",
+        "phone": "2 93",
+        "owner": "Nikolai Noschis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.93759155273437,
+          60.189036003858675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Automat Restaurant A-b.",
+        "address": "Fabianinkatu 31",
+        "phone": "40 84",
+        "owner": "toim. joht. Joh. Nyholm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.949640035629272,
+          60.16870818810989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Bavaria",
+        "address": "Hakasalmenkatu 2",
+        "owner": "Alexander Kristopowitsch",
+        "phone": "48 72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.942408800125122,
+          60.16908177850806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Bodega Española",
+        "address": "Etelä-Esplanaadikatu 8",
+        "phone": "4 43",
+        "owner": "Otto B. Hildén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.949049949645996,
+          60.16704832797725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Bodega Kaeding",
+        "address": "Etelä-Esplanaadikatu 8",
+        "phone": "23 73",
+        "owner": "neiti Nanny Kaeding"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.949318170547485,
+          60.167064339890324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Bodega Marcus",
+        "address": "Unioninkatu 14",
+        "owner": "rouva Emmy Modin",
+        "phone": "21 58"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.951142072677612,
+          60.16503076449819
+        ]
+      }
     }
   ]
 }
