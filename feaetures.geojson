@@ -424,6 +424,278 @@
           60.15766400480773
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Koiton Ravintola",
+        "address": "Yrjönkatu 31",
+        "phone": "61 29",
+        "owner": "Ida Platé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.936625957489014,
+          60.16881492865713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Ravintola",
+        "address": "Fredrikinkatu 33",
+        "phone": "21 33",
+        "owner": "nti. Sofia C. Lindholm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.93847131729126,
+          60.1633813943895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Ravintola",
+        "address": "Annankatu 31",
+        "phone": "60 45",
+        "owner": "nti. Sofia Lindqvist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.935402870178223,
+          60.16816914304879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Ravintola",
+        "address": "Rikhardinkatu 4",
+        "phone": "66 97",
+        "owner": "J. G. Lundin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.94644284248352,
+          60.16589011223636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Luoto",
+        "address": "Luoto",
+        "phone": "16 73",
+        "owner": "leski:rva Ingeborg Lindberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.965636730194092,
+          60.15969269758648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Münchner ravintola",
+        "address": "Fredrikinkatu 43",
+        "phone": "3 28",
+        "owner": "Frans Fagerström"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.935402870178223,
+          60.165596548766175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "C. F. Nyberg",
+        "address": "Aleksanterinkatu 12",
+        "phone": 52,
+        "owner": "John Carlsted"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.954811334609985,
+          60.16898037582003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Operakellari",
+        "address": "Teatteri Esplanaadi",
+        "phone": "2 38",
+        "owner": "isänn. W. Swedin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.94383573532104,
+          60.16734721573472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant,hotel",
+        "name": "Seurahuone",
+        "address": "Pohjoinen Esplanadikatu 11-13",
+        "phone": "ovenvartija 3 71, konttori 45 40",
+        "owner": "toim. joht. W. Noschis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.95293378829956,
+          60.168110434636795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Ranskalainen Viinitupa",
+        "address": "Etelä Makasiinikatu 6",
+        "phone": "29 72",
+        "owner": "nti. Johanna Petterson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.950337409973145,
+          60.16465712803696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Ravintola Operahalli",
+        "address": "Ludviginkatu 7",
+        "phone": "",
+        "owner": "Ida Gustafson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.944350719451904,
+          60.165858087257966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Ravintola Phoenix",
+        "address": "Itäinen Heikinkatu 3",
+        "phone": "28 07",
+        "owner": "G. A. Wickstöm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.94175434112549,
+          60.168147794547465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Ravintola Pohjola",
+        "address": "Bulevardikatu 4",
+        "phone": "1 49",
+        "owner": "nti. Ida Lindgren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.94038105010986,
+          60.16525494433568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Ravintola S:t Anne",
+        "address": "Korkeavuorenkatu 36",
+        "phone": "28 68",
+        "owner": "Herman Boe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.94548797607422,
+          60.16672808807713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Restaurant Central",
+        "address": "Hakasalmenkatu 4",
+        "phone": "46 92",
+        "owner": "lesk:rva Sigrid Nyberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.942387342453003,
+          60.16951407066697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Restaurant City",
+        "address": "Aleksanterinkatu 54",
+        "phone": "32 11",
+        "owner": "C. A. Winqvist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.942076206207275,
+          60.16866015475049
+        ]
+      }
     }
   ]
 }
