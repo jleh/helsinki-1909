@@ -696,6 +696,74 @@
           60.16866015475049
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Restaurant Ettan",
+        "address": "Itäinen Heikinkatu 1",
+        "phone": "61 84",
+        "owner": "C. L. Fredriksson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.942097663879395,
+          60.16791296011751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Restaurant Metropol",
+        "address": "Pohjoinen Esplanadikatu 39",
+        "phone": "13 66",
+        "owner": "Verner Ax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.943556785583496,
+          60.16785958842209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Restaurant Princess",
+        "address": "Pohjoinen Esplanadikatu 35",
+        "phone": "32 19",
+        "owner": "Sander Jungberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.945069551467892,
+          60.16791296011751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Sanct Erik",
+        "address": "Eerikinkatu 5",
+        "phone": "16 25",
+        "owner": "Edvin Henriksson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.93549942970276,
+          60.16744328622222
+        ]
+      }
     }
   ]
 }
