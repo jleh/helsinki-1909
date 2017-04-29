@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Ahlqvist, A. A.",
+        "address": "L. Heikinkatu 16",
+        "phone": "16 67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.93998408317566,
+          60.16827588534729
+        ]
+      }
+    }
+  ]
+}
