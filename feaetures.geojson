@@ -21,10 +21,14 @@
       "type": "Feature",
       "properties": {
         "category": "restaurant",
-        "name": "American Bar, (Ravintola Karl König)",
+        "name": "American Bar & Ravintola Karl König",
         "address": "Mikonkatu 4",
         "phone": "54 16",
-        "owner": "Hans G. Hagen"
+        "owner": "Hans G. Hagen",
+        "description": "Viihdykäs huoneisto, hyvä keittiö ja aina tarpeeksi jäähdytettyä SFF:n olutta.",
+        "cover_photo": "american_bar.jpg",
+        "hours": "",
+        "cover_photo_details": ""
       },
       "geometry": {
         "type": "Point",
@@ -41,7 +45,9 @@
         "name": "Alppila",
         "address": "Eläintarha, Alppila",
         "phone": "2 93",
-        "owner": "Nikolai Noschis"
+        "owner": "Nikolai Noschis",
+        "cover_photo_details": "Wasastjerna Nils, 1908",
+        "cover_photo": "alppila.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -58,7 +64,8 @@
         "name": "Automat Restaurant A-b.",
         "address": "Fabianinkatu 31",
         "phone": "40 84",
-        "owner": "toim. joht. Joh. Nyholm"
+        "owner": "toim. joht. Joh. Nyholm",
+        "cover_photo_details": ""
       },
       "geometry": {
         "type": "Point",
@@ -73,9 +80,11 @@
       "properties": {
         "category": "restaurant",
         "name": "Bavaria",
-        "address": "Hakasalmenkatu 2",
+        "address": "Hakasalmenkatu 2, kellarikerros",
         "owner": "Alexander Kristopowitsch",
-        "phone": "48 72"
+        "phone": "48 72",
+        "hours": "9 a.p. - 11 i.p.",
+        "description": "Hupaisa ja miellyttävä"
       },
       "geometry": {
         "type": "Point",
@@ -92,7 +101,8 @@
         "name": "Bodega Española",
         "address": "Etelä-Esplanaadikatu 8",
         "phone": "4 43",
-        "owner": "Otto B. Hildén"
+        "owner": "Otto B. Hildén",
+        "hours": ""
       },
       "geometry": {
         "type": "Point",
