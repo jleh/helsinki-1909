@@ -267,8 +267,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.94969367980957,
-          60.16839330147509
+          24.949650764465332,
+          60.168457346458844
         ]
       }
     },
@@ -762,6 +762,74 @@
         "coordinates": [
           24.93549942970276,
           60.16744328622222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Sofiasalin ravintola",
+        "address": "Sofiankatu 1",
+        "phone": "45 41",
+        "owner": "omist. O-y Seurahuone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.952365159988403,
+          60.168270548240585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Tre Remmare",
+        "address": "Uudenmaankatu 8",
+        "phone": "27 45",
+        "owner": "Axel Liljeström"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.941529035568234,
+          60.16453969855742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Uusi Bodega",
+        "address": "Fabianinkatu 29",
+        "phone": "35 37",
+        "owner": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.949886798858643,
+          60.16837195311943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Ravintola",
+        "address": "Sofiankatu 2",
+        "phone": "32 45",
+        "owner": "rva Sofia Vänttinen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.951978921890255,
+          60.168174480171935
         ]
       }
     }
