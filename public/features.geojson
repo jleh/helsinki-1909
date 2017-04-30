@@ -21,11 +21,11 @@
       "type": "Feature",
       "properties": {
         "category": "restaurant",
-        "name": "American Bar & Ravintola Karl König",
+        "name": "Ravintola Karl König & American Bar",
         "address": "Mikonkatu 4",
         "phone": "54 16",
         "owner": "Hans G. Hagen",
-        "description": "Viihdykäs huoneisto, hyvä keittiö ja aina tarpeeksi jäähdytettyä SFF:n olutta.",
+        "description": "Viihdykäs huoneisto, hyvä keittiö ja aina tarpeeksi jäähdytettyä Sinebrychoffin olutta.",
         "cover_photo": "american_bar.jpg",
         "hours": "",
         "cover_photo_details": ""

@@ -1,0 +1,14 @@
+.place-details-cover-photo {
+  height: 300px;
+  background-size: cover;
+  background-position: center;
+}
+
+.address {
+  font-style: italic;
+}
+
+.place-description {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}

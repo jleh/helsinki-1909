@@ -39,7 +39,7 @@ const map = ({ places, onPlaceClick }) => (
       <Marker
         position={[place.geometry.coordinates[1], place.geometry.coordinates[0]]}
         key={`${place.properties.name}-${place.properties.owner}`}
-        onClick={(event) => onPlaceClick(event.target.options.place)}
+        onClick={(event) => onPlaceClick(event.target.options.place.place)}
         place={{ place }}
       />
     ))}
