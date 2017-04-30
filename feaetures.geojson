@@ -1,0 +1,837 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Ahlqvist, A. A.",
+        "address": "L. Heikinkatu 16",
+        "phone": "16 67"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.93998408317566,
+          60.16827588534729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "American Bar, (Ravintola Karl König)",
+        "address": "Mikonkatu 4",
+        "phone": "54 16",
+        "owner": "Hans G. Hagen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.945284128189087,
+          60.168468020610675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Alppila",
+        "address": "Eläintarha, Alppila",
+        "phone": "2 93",
+        "owner": "Nikolai Noschis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.93759155273437,
+          60.189036003858675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Automat Restaurant A-b.",
+        "address": "Fabianinkatu 31",
+        "phone": "40 84",
+        "owner": "toim. joht. Joh. Nyholm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.949640035629272,
+          60.16870818810989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Bavaria",
+        "address": "Hakasalmenkatu 2",
+        "owner": "Alexander Kristopowitsch",
+        "phone": "48 72"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.942408800125122,
+          60.16908177850806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Bodega Española",
+        "address": "Etelä-Esplanaadikatu 8",
+        "phone": "4 43",
+        "owner": "Otto B. Hildén"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.949049949645996,
+          60.16704832797725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Bodega Kaeding",
+        "address": "Etelä-Esplanaadikatu 8",
+        "phone": "23 73",
+        "owner": "neiti Nanny Kaeding"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.949318170547485,
+          60.167064339890324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Bodega Marcus",
+        "address": "Unioninkatu 14",
+        "owner": "rouva Emmy Modin",
+        "phone": "21 58"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.951142072677612,
+          60.16503076449819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Conditori Catani",
+        "address": "Pohjois Esplanaadikatu 31",
+        "phone": "9 58",
+        "owner": "John Catani"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.946646690368652,
+          60.16795032025273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Du Rom",
+        "address": "Kirkkokatu 14",
+        "phone": "45 38",
+        "owner": "rva. Amalia Rolig"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.954253435134888,
+          60.17073086250153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Ek'n Ravintola",
+        "address": "Läntinen Heikinkatu 12",
+        "phone": "23 46",
+        "owner": "Fr. Wissotzky"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.941035509109494,
+          60.16756604254744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Erottajan Ravintola",
+        "address": "Läntinen Heikinkatu 4",
+        "phone": "37 25",
+        "owner": "E. H. Nummelin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.94324564933777,
+          60.16627974697341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Esplanadi-Kappeli",
+        "address": "",
+        "phone": "2 77, 40 86, 10 89",
+        "owner": "Oscar Carlsson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.950315952301025,
+          60.167432611737475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Ravintola",
+        "address": "Fabianinkatu 14",
+        "phone": "41 34",
+        "owner": "nti. Sofia Forss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.94909286499023,
+          60.16833993055992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Ravintola",
+        "address": "Uudenmaankatu 13",
+        "phone": "68 10",
+        "owner": "rva. Dorothea Friskberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.940863847732544,
+          60.164705167248556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Gambrini",
+        "address": "Fabianinkatu 29",
+        "phone": 57,
+        "owner": "rva. N. Nikolajeff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.949650764465332,
+          60.168457346458844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Gloet",
+        "address": "Kluuvikatu 7",
+        "phone": "1 96",
+        "owner": "leski:rva Charlotta Ahlfors"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.947590827941895,
+          60.16957811346602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Ravintola",
+        "address": "Erottajankatu 7",
+        "phone": "8 36",
+        "owner": "leski:rva Vilhelmina Gorbatoff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.944382905960083,
+          60.16486529744662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Ravintola",
+        "address": "Annankatu 21",
+        "phone": "16 46",
+        "owner": "rva. Anna J. Harjanne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.937387704849243,
+          60.16673876279075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Hermes Ravintola",
+        "address": "Aleksanterinkatu 19",
+        "phone": "28 47",
+        "owner": "rva. Vilhelmina Söderström"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.942140579223633,
+          60.16893767985773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Ravintola",
+        "address": "Mikonkatu 20",
+        "phone": "19 05, 5 59",
+        "owner": "nti. Mia Hiltunen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.944844245910645,
+          60.172486592339105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant,hotel",
+        "name": "Hotelli Fennia",
+        "address": "Mikonkatu 21",
+        "phone": "ovenvartija 19 21, matkust:huon 45 03",
+        "owner": "joht. K. E. Jonsson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.94569182395935,
+          60.171515349131916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Kaisaniemen ravintola",
+        "address": "Kaisaniemi",
+        "phone": "2 23",
+        "owner": "G. A. Wickström"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.941303730010986,
+          60.1767181026212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant,hotel",
+        "name": "Hotelli Kaleva",
+        "address": "Läntinen Heikinkatu 14",
+        "phone": "ovenvartija 9 29, ravintola 34 05",
+        "owner": "O. Bengtson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.940563440322876,
+          60.16787026276809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Kaivohuone",
+        "address": "Kaivopuisto",
+        "phone": "25 07",
+        "owner": "Nils Bengtson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.955916404724118,
+          60.15766400480773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Koiton Ravintola",
+        "address": "Yrjönkatu 31",
+        "phone": "61 29",
+        "owner": "Ida Platé"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.936625957489014,
+          60.16881492865713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Ravintola",
+        "address": "Fredrikinkatu 33",
+        "phone": "21 33",
+        "owner": "nti. Sofia C. Lindholm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.93847131729126,
+          60.1633813943895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Ravintola",
+        "address": "Annankatu 31",
+        "phone": "60 45",
+        "owner": "nti. Sofia Lindqvist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.935402870178223,
+          60.16816914304879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Ravintola",
+        "address": "Rikhardinkatu 4",
+        "phone": "66 97",
+        "owner": "J. G. Lundin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.94644284248352,
+          60.16589011223636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Luoto",
+        "address": "Luoto",
+        "phone": "16 73",
+        "owner": "leski:rva Ingeborg Lindberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.965636730194092,
+          60.15969269758648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Münchner ravintola",
+        "address": "Fredrikinkatu 43",
+        "phone": "3 28",
+        "owner": "Frans Fagerström"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.935402870178223,
+          60.165596548766175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "C. F. Nyberg",
+        "address": "Aleksanterinkatu 12",
+        "phone": 52,
+        "owner": "John Carlsted"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.954811334609985,
+          60.16898037582003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Operakellari",
+        "address": "Teatteri Esplanaadi",
+        "phone": "2 38",
+        "owner": "isänn. W. Swedin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.94383573532104,
+          60.16734721573472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant,hotel",
+        "name": "Seurahuone",
+        "address": "Pohjoinen Esplanadikatu 11-13",
+        "phone": "ovenvartija 3 71, konttori 45 40",
+        "owner": "toim. joht. W. Noschis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.95293378829956,
+          60.168110434636795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Ranskalainen Viinitupa",
+        "address": "Etelä Makasiinikatu 6",
+        "phone": "29 72",
+        "owner": "nti. Johanna Petterson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.950337409973145,
+          60.16465712803696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Ravintola Operahalli",
+        "address": "Ludviginkatu 7",
+        "phone": "",
+        "owner": "Ida Gustafson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.944350719451904,
+          60.165858087257966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Ravintola Phoenix",
+        "address": "Itäinen Heikinkatu 3",
+        "phone": "28 07",
+        "owner": "G. A. Wickstöm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.94175434112549,
+          60.168147794547465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Ravintola Pohjola",
+        "address": "Bulevardikatu 4",
+        "phone": "1 49",
+        "owner": "nti. Ida Lindgren"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.94038105010986,
+          60.16525494433568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Ravintola S:t Anne",
+        "address": "Korkeavuorenkatu 36",
+        "phone": "28 68",
+        "owner": "Herman Boe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.94548797607422,
+          60.16672808807713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Restaurant Central",
+        "address": "Hakasalmenkatu 4",
+        "phone": "46 92",
+        "owner": "lesk:rva Sigrid Nyberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.942387342453003,
+          60.16951407066697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Restaurant City",
+        "address": "Aleksanterinkatu 54",
+        "phone": "32 11",
+        "owner": "C. A. Winqvist"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.942076206207275,
+          60.16866015475049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Restaurant Ettan",
+        "address": "Itäinen Heikinkatu 1",
+        "phone": "61 84",
+        "owner": "C. L. Fredriksson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.942097663879395,
+          60.16791296011751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Restaurant Metropol",
+        "address": "Pohjoinen Esplanadikatu 39",
+        "phone": "13 66",
+        "owner": "Verner Ax"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.943556785583496,
+          60.16785958842209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Restaurant Princess",
+        "address": "Pohjoinen Esplanadikatu 35",
+        "phone": "32 19",
+        "owner": "Sander Jungberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.945069551467892,
+          60.16791296011751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Sanct Erik",
+        "address": "Eerikinkatu 5",
+        "phone": "16 25",
+        "owner": "Edvin Henriksson"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.93549942970276,
+          60.16744328622222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Sofiasalin ravintola",
+        "address": "Sofiankatu 1",
+        "phone": "45 41",
+        "owner": "omist. O-y Seurahuone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.952365159988403,
+          60.168270548240585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Tre Remmare",
+        "address": "Uudenmaankatu 8",
+        "phone": "27 45",
+        "owner": "Axel Liljeström"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.941529035568234,
+          60.16453969855742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Uusi Bodega",
+        "address": "Fabianinkatu 29",
+        "phone": "35 37",
+        "owner": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.949886798858643,
+          60.16837195311943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "restaurant",
+        "name": "Ravintola",
+        "address": "Sofiankatu 2",
+        "phone": "32 45",
+        "owner": "rva Sofia Vänttinen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.951978921890255,
+          60.168174480171935
+        ]
+      }
+    }
+  ]
+}
