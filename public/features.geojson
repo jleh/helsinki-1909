@@ -192,8 +192,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          24.941035509109494,
-          60.16756604254744
+          24.94100332260132,
+          60.16763542635451
         ]
       }
     },
@@ -925,6 +925,158 @@
         "coordinates": [
           24.94524121284485,
           60.16695225633493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "name": "Alku",
+        "address": "Iso Robertinkatu 44",
+        "phone": "",
+        "owner": "Hilma Romppainen",
+        "description": "",
+        "cover_photo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.937763214111328,
+          60.16179066130307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "name": "G. Backman",
+        "address": "Annankatu 32",
+        "phone": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.934415817260742,
+          60.16834526765535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "name": "Kahvila",
+        "address": "Länsiranta 20",
+        "phone": "28 97",
+        "owner": "nti. Ellen Bursell",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.952129125595093,
+          60.16703765336418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "name": "Cafe Restaurant",
+        "address": "Unioninkatu 14",
+        "phone": "21 58",
+        "owner": "lesk:rva Emmy Modin",
+        "description": "",
+        "cover_photo": "unioninkatu14.jpg",
+        "hours": "",
+        "cover_photo_details": "Brander Signe 1907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.95115280151367,
+          60.1649613751909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "name": "Kahvila",
+        "address": "Läntinen Heikinkatu 12",
+        "phone": "",
+        "owner": "Carlo Casagrande",
+        "description": "",
+        "cover_photo": "heikinkatu12.jpg",
+        "hours": "",
+        "cover_photo_details": 1913
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.94118571281433,
+          60.16753401920248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "name": "Central Café",
+        "address": "Aleksanterinkatu 46",
+        "phone": "1 98",
+        "owner": "Anna Ek",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.944876432418823,
+          60.16870818810989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "name": "Demokraatti",
+        "address": "Säästöpankinranta 4",
+        "phone": "",
+        "owner": "nti. Olga E. Pesonen",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.94842767715454,
+          60.1792097962712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "name": "Fredr. Edv. Ekberg",
+        "address": "Aleksanterinkatu 52",
+        "phone": "21 78",
+        "owner": "Fridolf Ehberg",
+        "description": "",
+        "cover_photo": "ekberg.jpg",
+        "hours": "",
+        "cover_photo_details": "Brander Signe 1912"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.94274139404297,
+          60.16862813247187
         ]
       }
     }
