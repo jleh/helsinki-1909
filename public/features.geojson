@@ -442,7 +442,11 @@
         "name": "Koiton Ravintola",
         "address": "Yrjönkatu 31",
         "phone": "61 29",
-        "owner": "Ida Platé"
+        "owner": "Ida Platé",
+        "description": "",
+        "cover_photo": "koitto.jpg",
+        "hours": "",
+        "cover_photo_details": " Rundman E 1905"
       },
       "geometry": {
         "type": "Point",
@@ -840,6 +844,87 @@
         "coordinates": [
           24.951978921890255,
           60.168174480171935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "name": "Kahvila",
+        "address": "Mikonkatu 22",
+        "phone": "",
+        "owner": "Margareta Ahlberg",
+        "description": "",
+        "cover_photo": "mikonkatu22.jpg",
+        "hours": "",
+        "cover_photo_details": "Brander Signe 1907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.944854974746704,
+          60.172774757876745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "name": "Ahtola",
+        "address": "Itäinen Viertotie 2",
+        "phone": "69 79",
+        "owner": "Maria Taivainen",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.952011108398438,
+          60.18047424514982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "name": "Kahvila",
+        "address": "Annankatu 29",
+        "phone": "",
+        "owner": "Hilda Airaksinen",
+        "description": "",
+        "cover_photo": "",
+        "hours": "",
+        "cover_photo_details": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.93574619293213,
+          60.16793964593271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "name": "K. M. Brondin O/-y",
+        "address": "Etelä Esplanaadi 20",
+        "phone": "75 52",
+        "owner": "toim. joht. K. A. Welin,",
+        "description": "Höyryleipomo, konditoria, marmelaatitehdas ja kahvia.  Huom.! Erittäin suosittelemme meidän korkeimman palkinnon saaneita Ruoka- ja Näkkileipävalmisteita.  Kuusi kodikasta huonetta, niiden joukossa: pienohuone, naistenhuone, kokoushuone j. n. e.  Useita leipäuutuuksia. Piirakoita.",
+        "cover_photo": "brondin.jpg",
+        "hours": "",
+        "cover_photo_details": "Sundström Eric 1914"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.94524121284485,
+          60.16695225633493
         ]
       }
     }
