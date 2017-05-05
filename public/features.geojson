@@ -391,7 +391,8 @@
         "name": "Kaisaniemen ravintola",
         "address": "Kaisaniemi",
         "phone": "2 23",
-        "owner": "G. A. Wickström"
+        "owner": "G. A. Wickström",
+        "cover_photo": "kaisaniemi.jpg"
       },
       "geometry": {
         "type": "Point",

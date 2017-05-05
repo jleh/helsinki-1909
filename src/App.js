@@ -10,6 +10,7 @@ import loadData from './services/fetchData';
 
 import MapComponent from './components/MapComponent.jsx';
 import PlaceDetails from './components/PlaceDetails.jsx';
+import Sidebar from './components/Sidebar.jsx';
 
 const store = createStore(
   reducers,
@@ -23,7 +24,10 @@ class App extends Component {
     return (
       <Provider store={store}>
         <div className="App">
-          <MapComponent />
+          <Sidebar />
+          <div className="map-wrapper">
+            <MapComponent />
+          </div>
           <PlaceDetails />
         </div>
       </Provider>
