@@ -6,6 +6,8 @@ import './PlaceDetails.css';
 
 import { selectPlace } from '../reducers/places';
 
+import PlaceCover from './PlaceCover.jsx';
+
 const mapStateToProps = state => ({
   place: state.places.selectedPlace
 });
@@ -15,30 +17,24 @@ const mapDispatchToProps = dispatch => ({
 });
 
 const placeDetails = ({ place, closeDetails }) => {
-  if (!place) {
+  if (!place)
     return (<div></div>);
-  } else {
-    return (
-      <div>
-      <Modal show={true} bsSize="lg" onHide={closeDetails}>
-        <Modal.Body>
-          <div
-            className="place-details-cover-photo"
-            style={{
-              backgroundImage: `url(https://s3.eu-central-1.amazonaws.com/karttalehtinen-helsinki-1909/${place.properties.cover_photo})`
-            }}
-          />
-          <h1>{place.properties.name}</h1>
-          <div>
-            <span className="address">{place.properties.address}</span> {place.properties.owner}</div>
-          <div className="place-description">{place.properties.description}</div>
 
-          <Button onClick={closeDetails}>Sulje</Button>
-        </Modal.Body>
-      </Modal>
-    </div>
-    );
-  }
+  return (
+    <div>
+    <Modal show={true} bsSize="lg" onHide={closeDetails}>
+      <Modal.Body>
+        <PlaceCover place={place.properties} />
+        <h1>{place.properties.name}</h1>
+        <div>
+          <span className="address">{place.properties.address}</span> {place.properties.owner}</div>
+        <div className="place-description">{place.properties.description}</div>
+
+        <Button onClick={closeDetails}>Sulje</Button>
+      </Modal.Body>
+    </Modal>
+  </div>
+  );
 };
 
 export default connect(mapStateToProps, mapDispatchToProps)(placeDetails);
