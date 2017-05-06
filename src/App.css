@@ -19,3 +19,10 @@ html, body, #root {
   display: inline-block;
   height: 100%;
 }
+
+.app-title {
+  text-align: center;
+  font-size: 2.5em;
+  font-family: 'Old Standard TT', serif;
+  font-weight: bold;
+}

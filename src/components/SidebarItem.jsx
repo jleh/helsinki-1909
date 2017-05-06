@@ -1,5 +1,4 @@
 import React from 'react';
-// import {  } from 'react-bootstrap';
 
 export default ({ place, placeFeature, selectPlace }) => (
   <div className="place-list-item">
