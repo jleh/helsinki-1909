@@ -6,8 +6,10 @@ export default class PlaceCover extends Component {
   constructor(props) {
     super(props);
 
-    this.state = { images: [] };
+    this.state = { images: [], selectedImage: 0 };
+
     this.fetchImages = this.fetchImages.bind(this);
+    this.nextPhoto = this.nextPhoto.bind(this);
   }
 
   componentDidMount() {
@@ -26,6 +28,16 @@ export default class PlaceCover extends Component {
     });
   }
 
+  nextPhoto() {
+    const nextImage = (this.state.selectedImage + 1) % (this.state.images.length);
+    this.setState({ selectedImage: nextImage });
+  }
+
+  previousPhoto() {
+    const nextImage = (this.state.selectedImage - 1) % (this.state.images.length);
+    this.setState({ selectedImage: nextImage });
+  }
+
   render() {
     let coverImage = '';
     let attribution = '';
@@ -36,9 +48,11 @@ export default class PlaceCover extends Component {
     }
 
     if (this.props.place.cover_photo === undefined && this.state.images.length > 0) {
-      coverImage = `url(http://finna.fi${this.state.images[0].images[0]})`;
-      attribution = this.state.images[0].nonPresenterAuthors[0].name;
-      title = this.state.images[0].title;
+      const photo = this.state.images[this.state.selectedImage];
+
+      coverImage = `url(http://finna.fi${photo.images[0]})`;
+      attribution = photo.nonPresenterAuthors[0].name;
+      title = photo.title;
     }
     
     return (
@@ -49,6 +63,7 @@ export default class PlaceCover extends Component {
         }}
       >
         <div className="photo-attributes">{attribution}: {title}</div>
+        <div className="next-photo" onClick={this.nextPhoto}>&gt;</div>
       </div>
     );
   }

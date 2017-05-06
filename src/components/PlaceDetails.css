@@ -22,3 +22,12 @@
   padding-left: 5px;
   padding-right: 5px;
 }
+
+.next-photo {
+  position: absolute;
+  right: 14px;
+  top: 41%;
+  font-size: 50px;
+  color: #fff;
+  cursor: pointer;
+}
