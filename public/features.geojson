@@ -65,7 +65,9 @@
         "address": "Fabianinkatu 31",
         "phone": "40 84",
         "owner": "toim. joht. Joh. Nyholm",
-        "cover_photo_details": ""
+        "cover_photo_details": "Rosenbröijer A. E. 1900",
+        "cover_photo": "automat.jpg",
+        "hours": ""
       },
       "geometry": {
         "type": "Point",
@@ -102,7 +104,10 @@
         "address": "Etelä-Esplanaadikatu 8",
         "phone": "4 43",
         "owner": "Otto B. Hildén",
-        "hours": ""
+        "hours": "",
+        "description": "",
+        "cover_photo": "bodega_espanola.jpg",
+        "cover_photo_details": "Nyblin Daniel 1870"
       },
       "geometry": {
         "type": "Point",
@@ -119,7 +124,8 @@
         "name": "Bodega Kaeding",
         "address": "Etelä-Esplanaadikatu 8",
         "phone": "23 73",
-        "owner": "neiti Nanny Kaeding"
+        "owner": "neiti Nanny Kaeding",
+        "cover_photo": ""
       },
       "geometry": {
         "type": "Point",
@@ -153,7 +159,9 @@
         "name": "Conditori Catani",
         "address": "Pohjois Esplanaadikatu 31",
         "phone": "9 58",
-        "owner": "John Catani"
+        "owner": "John Catani",
+        "hours": "",
+        "cover_photo": "catani.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -221,7 +229,10 @@
         "name": "Esplanadi-Kappeli",
         "address": "",
         "phone": "2 77, 40 86, 10 89",
-        "owner": "Oscar Carlsson"
+        "owner": "Oscar Carlsson",
+        "cover_photo": "kappeli.jpg",
+        "hours": "",
+        "cover_photo_details": ""
       },
       "geometry": {
         "type": "Point",
@@ -323,7 +334,11 @@
         "name": "Ravintola",
         "address": "Annankatu 21",
         "phone": "16 46",
-        "owner": "rva. Anna J. Harjanne"
+        "owner": "rva. Anna J. Harjanne",
+        "description": "",
+        "cover_photo": "anna21.jpg",
+        "hours": "",
+        "cover_photo_details": "Brander Signe 1907"
       },
       "geometry": {
         "type": "Point",
@@ -392,7 +407,8 @@
         "address": "Kaisaniemi",
         "phone": "2 23",
         "owner": "G. A. Wickström",
-        "cover_photo": "kaisaniemi.jpg"
+        "cover_photo": "kaisaniemi.jpg",
+        "cover_photo_details": 1903
       },
       "geometry": {
         "type": "Point",
@@ -515,7 +531,10 @@
         "name": "Luoto",
         "address": "Luoto",
         "phone": "16 73",
-        "owner": "leski:rva Ingeborg Lindberg"
+        "owner": "leski:rva Ingeborg Lindberg",
+        "cover_photo": "luoto.jpg",
+        "hours": "",
+        "cover_photo_details": "Carstens M. L. (Hampuri) 1905"
       },
       "geometry": {
         "type": "Point",
@@ -566,7 +585,10 @@
         "name": "Operakellari",
         "address": "Teatteri Esplanaadi",
         "phone": "2 38",
-        "owner": "isänn. W. Swedin"
+        "owner": "isänn. W. Swedin",
+        "cover_photo": "oopperakellari.jpg",
+        "hours": "",
+        "cover_photo_details": "Sundström Eric 1920"
       },
       "geometry": {
         "type": "Point",
@@ -583,7 +605,10 @@
         "name": "Seurahuone",
         "address": "Pohjoinen Esplanadikatu 11-13",
         "phone": "ovenvartija 3 71, konttori 45 40",
-        "owner": "toim. joht. W. Noschis"
+        "owner": "toim. joht. W. Noschis",
+        "cover_photo": "seurahuone.jpg",
+        "hours": "",
+        "cover_photo_details": "Nyblin Daniel 1890"
       },
       "geometry": {
         "type": "Point",
@@ -1078,6 +1103,289 @@
         "coordinates": [
           24.94274139404297,
           60.16862813247187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "name": "Karl Fazer",
+        "address": "Kluuvikatu 3",
+        "phone": "15 36",
+        "owner": "",
+        "cover_photo": "kluuvikatu3.jpg",
+        "hours": "",
+        "cover_photo_details": "Brander Signe 1907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.94770884513855,
+          60.16852139131777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "name": "Kahvila",
+        "address": "Vladimirinkatu 20",
+        "phone": "",
+        "owner": "rva. Mathilda Ekblad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.93537068367004,
+          60.16621569774492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "name": "Kahvila",
+        "address": "Kasarmikatu 44",
+        "phone": "",
+        "owner": "rva. Olga Elo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.947515726089478,
+          60.16626373467798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "name": "Kahvia",
+        "address": "Läntinen Heikinkatu 18",
+        "phone": "",
+        "owner": "Hilda & Signe Eloranta",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.939619302749634,
+          60.16851605425096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "name": "Erottajan Kahvila",
+        "address": "Erottaja 4",
+        "phone": "71 41",
+        "owner": "H. J. Cohné",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.943310022354126,
+          60.166007536890085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "name": "Helsingin Ajuriyhdistyksen Kahvila",
+        "address": "Antinkatu 18",
+        "phone": "54 30",
+        "owner": "joht. nti. Elsa Wallenius"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.934887886047363,
+          60.16487063510643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "name": "Imatra",
+        "address": "Kaivokatu 12",
+        "phone": "7 48",
+        "owner": "V. Tötterman",
+        "description": "",
+        "cover_photo": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.939726591110226,
+          60.17007444092583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "cafe",
+        "name": "Paratiisi",
+        "address": "Siltasaarenkatu 8",
+        "phone": "51 01",
+        "owner": "A. Brasgin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.94969367980957,
+          60.17796130530956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "hotel",
+        "name": "Hotel Bristol",
+        "address": "Unioninkatu 15",
+        "phone": "54 95",
+        "owner": "W. Noschis",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.951624870300293,
+          60.16623704750161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "hotel",
+        "name": "Hotel du Commerce",
+        "address": "Kasarmikatu 28",
+        "phone": "51 08",
+        "owner": "Rudolf Piehl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.947773218154907,
+          60.16393653143567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "hotel",
+        "name": "Hotelli Continental",
+        "address": "Pohjois Esplanadi 5",
+        "phone": "46 09",
+        "owner": "nti. Fredrika Lagervall",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.954940080642697,
+          60.168174480171935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "hotel",
+        "name": "Hotelli Kämp",
+        "address": "Pohjois Esplanadi 29",
+        "phone": "9 11",
+        "owner": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.947204589843746,
+          60.16795032025273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "hotel",
+        "name": "Hotelli Patria",
+        "address": "Aleksanterinkatu 17 A",
+        "phone": "27 08",
+        "owner": "G. A. Wickström",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.943846464157104,
+          60.16897503882777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "hotel",
+        "name": "Kleinehn Hotellli",
+        "address": "Katariinankatu 1",
+        "phone": "3 72",
+        "owner": "John Osolin",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.953899383544922,
+          60.16812644603228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "hotel",
+        "name": "Rautatien Hotelli",
+        "address": "Vilhonkatu 6",
+        "phone": "58 47",
+        "owner": "nti. Mia Hiltunen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.946013689041138,
+          60.17189424412875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "category": "hotel",
+        "name": "Uusi Hotelli",
+        "address": "Kluuvikatu 8",
+        "phone": "1 74",
+        "owner": "J. G. Haglund"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.94712948799133,
+          60.169476712309866
         ]
       }
     }

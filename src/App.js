@@ -4,6 +4,7 @@ import { Provider } from 'react-redux'
 
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.css';
+import './css/font-awesome.css';
 
 import reducers from './reducers';
 import loadData from './services/fetchData';
