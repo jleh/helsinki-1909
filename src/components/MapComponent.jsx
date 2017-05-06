@@ -28,10 +28,10 @@ const position = [60.168, 24.942];
 const options = { tms: true };
 
 const map = ({ places, onPlaceClick }) => (
-  <Map className="app-map" center={position} zoom={15}>
+  <Map className="app-map" center={position} zoom={15} maxZoom={17} minZoom={13}>
     <TileLayer
       url='http://karttalehtinen.s3-website-eu-west-1.amazonaws.com/helsinki1909/{z}/{x}/{y}.png'
-      attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+      attribution='&copy; Helsingin kaupunginarkisto'
       options={options}
       tms
     />

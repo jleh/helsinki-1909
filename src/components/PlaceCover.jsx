@@ -28,13 +28,17 @@ export default class PlaceCover extends Component {
 
   render() {
     let coverImage = '';
+    let attribution = '';
+    let title = '';
 
     if (this.props.place.cover_photo) {
       coverImage = `url(https://s3.eu-central-1.amazonaws.com/karttalehtinen-helsinki-1909/${this.props.place.cover_photo})`;
     }
 
     if (this.props.place.cover_photo === undefined && this.state.images.length > 0) {
-      coverImage = `url(http://finna.fi${this.state.images[0].images[0]})`
+      coverImage = `url(http://finna.fi${this.state.images[0].images[0]})`;
+      attribution = this.state.images[0].nonPresenterAuthors[0].name;
+      title = this.state.images[0].title;
     }
     
     return (
@@ -43,7 +47,9 @@ export default class PlaceCover extends Component {
         style={{
           backgroundImage: coverImage
         }}
-      />
+      >
+        <div className="photo-attributes">{attribution}: {title}</div>
+      </div>
     );
   }
 }
