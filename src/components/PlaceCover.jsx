@@ -10,6 +10,7 @@ export default class PlaceCover extends Component {
 
     this.fetchImages = this.fetchImages.bind(this);
     this.nextPhoto = this.nextPhoto.bind(this);
+    this.addPhotos = this.addPhotos.bind(this);
   }
 
   componentDidMount() {
@@ -18,14 +19,27 @@ export default class PlaceCover extends Component {
   }
 
   fetchImages() {
-    fetchFinnaImages(this.props.place.address).then(data => {
-      if (data.resultCount === 0) return;
+    if (this.props.place.cover_photo_search) {
+      fetchFinnaImages(this.props.place.cover_photo_search).then(this.addPhotos);
+    } else {
+      fetchFinnaImages(this.props.place.address).then(this.addPhotos);
+    }
+  }
 
-      const photoRecords = data.records.filter(record => record.formats.map(format => format.translated).indexOf('Valokuva') !== -1);
+  addPhotos(data) {
+    if (data.resultCount === 0) return;
 
-      photoRecords.forEach(record => console.log(record));
-      this.setState({ images: photoRecords });
-    });
+    const photoRecords = data.records.filter(record => record.formats.map(format => format.translated).indexOf('Valokuva') !== -1);
+    const cover = photoRecords.find(record => record.id === this.props.place.cover_photo);
+
+    if (cover) {
+      photoRecords.splice(photoRecords.indexOf(cover), 1);
+      photoRecords.unshift(cover);
+    }
+
+    photoRecords.forEach(record => console.log(record));
+
+    this.setState({ images: this.state.images.concat(photoRecords) });
   }
 
   nextPhoto() {
@@ -43,11 +57,7 @@ export default class PlaceCover extends Component {
     let attribution = '';
     let title = '';
 
-    if (this.props.place.cover_photo) {
-      coverImage = `url(https://s3.eu-central-1.amazonaws.com/karttalehtinen-helsinki-1909/${this.props.place.cover_photo})`;
-    }
-
-    if (this.props.place.cover_photo === undefined && this.state.images.length > 0) {
+    if (this.state.images.length > 0) {
       const photo = this.state.images[this.state.selectedImage];
 
       coverImage = `url(http://finna.fi${photo.images[0]})`;

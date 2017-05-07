@@ -26,9 +26,8 @@
         "phone": "54 16",
         "owner": "Hans G. Hagen",
         "description": "Viihdykäs huoneisto, hyvä keittiö ja aina tarpeeksi jäähdytettyä Sinebrychoffin olutta.",
-        "cover_photo": "american_bar.jpg",
-        "hours": "",
-        "cover_photo_details": ""
+        "cover_photo": "HKMS000005:km0038q6",
+        "cover_photo_search": ""
       },
       "geometry": {
         "type": "Point",
@@ -46,8 +45,8 @@
         "address": "Eläintarha, Alppila",
         "phone": "2 93",
         "owner": "Nikolai Noschis",
-        "cover_photo_details": "Wasastjerna Nils, 1908",
-        "cover_photo": "alppila.jpg"
+        "cover_photo": "alppila.jpg",
+        "cover_photo_search": "ravintola alppila"
       },
       "geometry": {
         "type": "Point",
@@ -65,9 +64,7 @@
         "address": "Fabianinkatu 31",
         "phone": "40 84",
         "owner": "toim. joht. Joh. Nyholm",
-        "cover_photo_details": "Rosenbröijer A. E. 1900",
-        "cover_photo": "automat.jpg",
-        "hours": ""
+        "cover_photo": "automat.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -85,7 +82,6 @@
         "address": "Hakasalmenkatu 2, kellarikerros",
         "owner": "Alexander Kristopowitsch",
         "phone": "48 72",
-        "hours": "9 a.p. - 11 i.p.",
         "description": "Hupaisa ja miellyttävä"
       },
       "geometry": {
@@ -104,10 +100,8 @@
         "address": "Etelä-Esplanaadikatu 8",
         "phone": "4 43",
         "owner": "Otto B. Hildén",
-        "hours": "",
         "description": "",
-        "cover_photo": "bodega_espanola.jpg",
-        "cover_photo_details": "Nyblin Daniel 1870"
+        "cover_photo": "bodega_espanola.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -160,7 +154,6 @@
         "address": "Pohjois Esplanaadikatu 31",
         "phone": "9 58",
         "owner": "John Catani",
-        "hours": "",
         "cover_photo": "catani.jpg"
       },
       "geometry": {
@@ -230,9 +223,7 @@
         "address": "",
         "phone": "2 77, 40 86, 10 89",
         "owner": "Oscar Carlsson",
-        "cover_photo": "kappeli.jpg",
-        "hours": "",
-        "cover_photo_details": ""
+        "cover_photo": "kappeli.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -336,9 +327,7 @@
         "phone": "16 46",
         "owner": "rva. Anna J. Harjanne",
         "description": "",
-        "cover_photo": "anna21.jpg",
-        "hours": "",
-        "cover_photo_details": "Brander Signe 1907"
+        "cover_photo": "anna21.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -372,7 +361,8 @@
         "name": "Ravintola",
         "address": "Mikonkatu 20",
         "phone": "19 05, 5 59",
-        "owner": "nti. Mia Hiltunen"
+        "owner": "nti. Mia Hiltunen",
+        "cover_photo": ""
       },
       "geometry": {
         "type": "Point",
@@ -407,8 +397,9 @@
         "address": "Kaisaniemi",
         "phone": "2 23",
         "owner": "G. A. Wickström",
-        "cover_photo": "kaisaniemi.jpg",
-        "cover_photo_details": 1903
+        "cover_photo": "hkm.HKMS000005:0000011m",
+        "description": "",
+        "cover_photo_search": "kaisaniemi ravintola"
       },
       "geometry": {
         "type": "Point",
@@ -461,9 +452,7 @@
         "phone": "61 29",
         "owner": "Ida Platé",
         "description": "",
-        "cover_photo": "koitto.jpg",
-        "hours": "",
-        "cover_photo_details": " Rundman E 1905"
+        "cover_photo": "koitto.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -532,9 +521,7 @@
         "address": "Luoto",
         "phone": "16 73",
         "owner": "leski:rva Ingeborg Lindberg",
-        "cover_photo": "luoto.jpg",
-        "hours": "",
-        "cover_photo_details": "Carstens M. L. (Hampuri) 1905"
+        "cover_photo": "luoto.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -586,9 +573,7 @@
         "address": "Teatteri Esplanaadi",
         "phone": "2 38",
         "owner": "isänn. W. Swedin",
-        "cover_photo": "oopperakellari.jpg",
-        "hours": "",
-        "cover_photo_details": "Sundström Eric 1920"
+        "cover_photo": "oopperakellari.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -606,9 +591,7 @@
         "address": "Pohjoinen Esplanadikatu 11-13",
         "phone": "ovenvartija 3 71, konttori 45 40",
         "owner": "toim. joht. W. Noschis",
-        "cover_photo": "seurahuone.jpg",
-        "hours": "",
-        "cover_photo_details": "Nyblin Daniel 1890"
+        "cover_photo": "seurahuone.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -882,9 +865,7 @@
         "phone": "",
         "owner": "Margareta Ahlberg",
         "description": "",
-        "cover_photo": "mikonkatu22.jpg",
-        "hours": "",
-        "cover_photo_details": "Brander Signe 1907"
+        "cover_photo": "mikonkatu22.jpg"
       },
       "geometry": {
         "type": "Point",
@@ -921,9 +902,7 @@
         "phone": "",
         "owner": "Hilda Airaksinen",
         "description": "",
-        "cover_photo": "",
-        "hours": "",
-        "cover_photo_details": ""
+        "cover_photo": ""
       },
       "geometry": {
         "type": "Point",
@@ -942,9 +921,7 @@
         "phone": "75 52",
         "owner": "toim. joht. K. A. Welin,",
         "description": "Höyryleipomo, konditoria, marmelaatitehdas ja kahvia.  Huom.! Erittäin suosittelemme meidän korkeimman palkinnon saaneita Ruoka- ja Näkkileipävalmisteita.  Kuusi kodikasta huonetta, niiden joukossa: pienohuone, naistenhuone, kokoushuone j. n. e.  Useita leipäuutuuksia. Piirakoita.",
-        "cover_photo": "brondin.jpg",
-        "hours": "",
-        "cover_photo_details": "Sundström Eric 1914"
+        "cover_photo": "brondin.jpg"
       },
       "geometry": {
         "type": "Point",
